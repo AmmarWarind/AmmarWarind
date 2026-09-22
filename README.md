@@ -165,7 +165,7 @@ INTELLIGENT APPLICATION
 
 ## 🗄️ Data Pipeline System
 
-### `🟡 IN DEVELOPMENT`
+### ` 🟢 Completed`
 
 A practical data-engineering project designed to understand how data moves through a complete application.
 
@@ -225,8 +225,8 @@ A practical data-engineering project designed to understand how data moves throu
 
 |         🚀 Project        |                 🔧 Focus                 |  📌 Status  |
 | :-----------------------: | :--------------------------------------: | :---------: |
-|  🗄️ Data Pipeline System |   Flask • PostgreSQL • SQLAlchemy • ETL  | 🟡 Building |
-| 📊 Data Analysis Projects |   Pandas • NumPy • EDA • Visualization   | 🟢 Learning |
+|  🗄️ Data Pipeline System |   Flask • PostgreSQL • SQLAlchemy • ETL  |  🟢 Complete |
+| 📊 Data Analysis Projects |   Pandas • NumPy • EDA • Visualization   | 🟢 Complete |
 |  🤖 ML Practice Projects  | Regression • Classification • Evaluation | 🟢 Learning |
 
 </div>
